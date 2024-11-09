@@ -27,5 +27,4 @@ jobs:
           pip install telebot pymongo aiohttp
 
       - name: Run soul.py
-        run: python3 s
-        oul.py
+        run: python3 soul.py
